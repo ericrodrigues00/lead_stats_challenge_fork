@@ -39,8 +39,7 @@ This project is a comprehensive task management system that allows users to crea
 
 ### Infrastructure
 - **Containerization**: Docker & Docker Compose
-- **Database**: PostgreSQL 16 (containerized)
-- **Development**: Hot reload for both frontend and backend
+- **Database**: PostgreSQL  (containerized)
 
 ## 📋 Prerequisites
 
